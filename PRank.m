@@ -23,7 +23,7 @@
 % If you find this software useful, we ask that you cite our paper:
 %
 %    Liron David and Avishai Wool.
-%    PRank: Fast Analytical Rank Estimation via Pareto Distributions.
+%    PRank: Fast Analytical Rank Estimation
 %    COSADE 2019
 %    Technical report https://eprint.iacr.org/2018/550.
 %
