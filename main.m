@@ -1,4 +1,4 @@
-% PRank: A Fast Analytical Rank Estimation
+% PRank: Fast Analytical Rank Estimation Matlab Code
 %
 % Return the rank estimation of a given key k*={k1,...,kd} and
 % d probability lists {P1,...,Pd}.
